@@ -22,42 +22,41 @@ multiplatform approach (Linux and Windows).
 
 **however, the defining features of a scientific calculator include:**
 
-*scientific notation
+-scientific notation
 
-*floating-point arithmetic
+-floating-point arithmetic
 
-logarithmic functions, using both base 10 and base e
+-logarithmic functions, using both base 10 and base e
 
-trigonometric functions (some including hyperbolic trigonometry)
+-trigonometric functions (some including hyperbolic trigonometry)
 
-exponential functions and roots beyond the square root
-quick access to constants such as pi and e
+-exponential functions and roots beyond the square root
+
+-quick access to constants such as pi and e
 
 In addition, high-end scientific calculators generally include:
 
-hexadecimal, binary, and octal calculations, including basic Boolean mathematics
+-hexadecimal, binary, and octal calculations, including basic Boolean mathematics
 
-complex numbers
+-complex numbers
 
-fractions calculations
+-fractions calculations
 
- statistics and probability calculations
+-statistics and probability calculations
 
-· programmability — see Programmable calculator
+-programmability — see Programmable calculator
 
-· equation solving
+-equation solving
 
-· matrix calculations
+- matrix calculations
 
-· calculus
+-calculus
 
-· letters that can be used for spelling words or including variables into an equation
+-letters that can be used for spelling words or including variables into an equation
 
-· Conversion of units.
+-onversion of units.
 
 [https://en.wikipedia.org/wiki/Scientific\_calculator]
-
-
 
 
 
@@ -107,45 +106,29 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 **High Level Requirements:**
 
-|ID|Description|Status|
+|**ID|**Description|**Status|
 |:-|:----------|:-----|
-HL01
+|HL01|Multiple Arithmetic operation|  
+|HL02|Multiple Logarithmic operation|  
+|HL03|Multiple Trigonometric operation|
+|HL04|Multiple function operation|
 
-Multiple Arithmetic operation
 
-HL02
-
-HL03
-
-HL04
-
-Multiple Logarithmic operation
-
-Multiple Trigonometric operation
-
-Multiple function operation
 
 **Low level Requirements:**
 
-**ID**
+|**ID|**Description|**Status|
+|:---|:---------|:------|
+|LL01\_HL01|Single arithmetic operation|
+|LL02\_HL02|Single Logarithmic operation|
+|LL03\_HL03|Single Trigonometric operation|
+|LL04|Degree to radian and vice-versa|
 
-**Description**
 
-**Status**
 
-LL01\_HL01
 
-LL02\_HL02
 
-LL03\_HL03
 
-LL04
 
-Single arithmetic operation
 
-Single Logarithmic operation
-
-Single Trigonometric operation
-
-Degree to radian and vice-versa
 
