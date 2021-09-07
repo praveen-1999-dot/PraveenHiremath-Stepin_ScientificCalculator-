@@ -22,27 +22,26 @@ multiplatform approach (Linux and Windows).
 
 **however, the defining features of a scientific calculator include:**
 
-· scientific notation
+scientific notation
 
-· floating-point arithmetic
+floating-point arithmetic
 
-· logarithmic functions, using both base 10 and base e
+logarithmic functions, using both base 10 and base e
 
-· trigonometric functions (some including hyperbolic trigonometry)
+trigonometric functions (some including hyperbolic trigonometry)
 
-· exponential functions and roots beyond the square root
-
-· quick access to constants such as pi and e
+exponential functions and roots beyond the square root
+quick access to constants such as pi and e
 
 In addition, high-end scientific calculators generally include:
 
-· hexadecimal, binary, and octal calculations, including basic Boolean mathematics
+hexadecimal, binary, and octal calculations, including basic Boolean mathematics
 
-· complex numbers
+complex numbers
 
-· fractions calculations
+fractions calculations
 
-· statistics and probability calculations
+ statistics and probability calculations
 
 · programmability — see Programmable calculator
 
