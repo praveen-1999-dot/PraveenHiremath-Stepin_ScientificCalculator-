@@ -1,7 +1,15 @@
-**BEHAVIORAL DIAGRAM**
+**LOW LEVEL BEHAVIOURAL DIAGRAM
 
 
-![behavioral_diagram](https://user-images.githubusercontent.com/57836094/132335914-a905bbf4-d03c-4f81-8e5a-172037439eb3.jpg)
+![lowlevelbehav](https://user-images.githubusercontent.com/57836094/132359172-238eef27-488b-47f8-b0fd-d2bf8827fe5e.jpg)
+
+
+**HIGH LEVEL BEHAVIOURAL DIAGRAM
+
+
+![highlevelbehav(1)](https://user-images.githubusercontent.com/57836094/132359401-f897a4f9-b384-4217-b2db-f8711a9d69b0.jpg)
+
+
 
 
 
