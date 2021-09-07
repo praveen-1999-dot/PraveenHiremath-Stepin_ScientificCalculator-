@@ -22,9 +22,9 @@ multiplatform approach (Linux and Windows).
 
 **however, the defining features of a scientific calculator include:**
 
-scientific notation
+*scientific notation
 
-floating-point arithmetic
+*floating-point arithmetic
 
 logarithmic functions, using both base 10 and base e
 
