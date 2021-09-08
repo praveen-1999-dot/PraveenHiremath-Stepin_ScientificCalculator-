@@ -16,7 +16,7 @@ used for writing the code in this project is visual studio code. This project ha
 
 multiplatform approach (Linux and Windows).
 
-# RESEARCH
+# RESEARCH:
 
  Modern scientific calculators generally have many more features than a standard four or
  five-function calculator, and the feature set differs between manufacturers and models
@@ -67,13 +67,13 @@ This is the plot of cost of the calculators in ($ ) and time in years
 
 0137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
-**Defining System:
+**Defining_System:
 
 Design and testing mathematical operations of scientific calculator using unit
 
 testing algorithm.
 
-**SWOT analysis:
+**SWOT_analysis:
 
 Strengths:Innovative, User-friendly.
 
@@ -104,10 +104,10 @@ How: Calculates the user input and gives the output.
 
 |**ID|**Description|**Status|
 |:-|:----------|:-----|
-|HL01|Multiple Arithmetic operation| 
-|HL02|Multiple Logarithmic operation|  
-|HL03|Multiple Trigonometric operation|
-|HL04|Multiple function operation|
+|HL01|Multiple Arithmetic operation|YES|
+|HL02|Multiple Logarithmic operation|YES| 
+|HL03|Multiple Trigonometric operation|YES|
+|HL04|Multiple function operation|YES|
 
 
 
@@ -115,10 +115,10 @@ How: Calculates the user input and gives the output.
 
 |**ID|**Description|**Status|
 |:---|:---------|:------|
-|LL01\_HL01|Single arithmetic operation|
-|LL02\_HL02|Single Logarithmic operation|
-|LL03\_HL03|Single Trigonometric operation|
-|LL04|Degree to radian and vice-versa|
+|LL01\_HL01|Single arithmetic operation|YES|
+|LL02\_HL02|Single Logarithmic operation|YES|
+|LL03\_HL03|Single Trigonometric operation|YES|
+|LL04|Degree to radian and vice-versa|NO|
 
 
 
