@@ -5,3 +5,4 @@
 [![Code Quality - Static Code - Cppcheck](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/gitinspector.yml)
 [![Unit Testing - Unity](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/unity.yml/badge.svg)](https://github.com/praveen-1999-dot/PraveenHiremath-Stepin_ScientificCalculator-/actions/workflows/unity.yml)
+referred some details from my friend's repository
