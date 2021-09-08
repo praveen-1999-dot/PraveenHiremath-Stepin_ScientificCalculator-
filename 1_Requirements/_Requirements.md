@@ -1,8 +1,8 @@
-﻿
 
-**# REQUIREMENTS**
 
-**#INTRODUCTION:** The Scientific calculator project is the application based mini project,
+# REQUIREMENTS
+
+#INTRODUCTION: The Scientific calculator project is the application based mini project,
 
 which is used to perform arithmetic operations, trigonometric functions, logarithmic functions,
 
@@ -14,53 +14,52 @@ used for writing the code in this project is visual studio code. This project ha
 
 multiplatform approach (Linux and Windows).
 
-**#RESEARCH**
+# RESEARCH
 
-**Modern scientific calculators generally have many more features than a standard four or**
+# Modern scientific calculators generally have many more features than a standard four or
 
-**five-function calculator, and the feature set differs between manufacturers and models;**
+# five-function calculator, and the feature set differs between manufacturers and models
 
-**however, the defining features of a scientific calculator include:**
+# however, the defining features of a scientific calculator include:
 
--scientific notation
+scientific notation
 
--floating-point arithmetic
+floating-point arithmetic
 
--logarithmic functions, using both base 10 and base e
+logarithmic functions, using both base 10 and base e
 
--trigonometric functions (some including hyperbolic trigonometry)
+trigonometric functions (some including hyperbolic trigonometry)
 
--exponential functions and roots beyond the square root
+exponential functions and roots beyond the square root
 
--quick access to constants such as pi and e
+quick access to constants such as pi and e
 
 In addition, high-end scientific calculators generally include:
 
--hexadecimal, binary, and octal calculations, including basic Boolean mathematics
+hexadecimal, binary, and octal calculations, including basic Boolean mathematics
+complex numbers
 
--complex numbers
+fractions calculations
 
--fractions calculations
+statistics and probability calculations
 
--statistics and probability calculations
+programmability — see Programmable calculator
 
--programmability — see Programmable calculator
+equation solving
 
--equation solving
+ matrix calculations
 
-- matrix calculations
+calculus
 
--calculus
+letters that can be used for spelling words or including variables into an equation
 
--letters that can be used for spelling words or including variables into an equation
-
--onversion of units.
+conversion of units.
 
 [https://en.wikipedia.org/wiki/Scientific\_calculator]
 
 
 
-**Cost Vs Timeline**
+# Cost Vs Timeline
 
 This is the plot of cost of the calculators in ($ ) and time in years
 
@@ -68,17 +67,17 @@ This is the plot of cost of the calculators in ($ ) and time in years
 
 0137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
-**Defining System:**
+# Defining System:
 
 Design and testing mathematical operations of scientific calculator using unit
 
 testing algorithm.
 
-**SWOT analysis:**
+# SWOT analysis:
 
-**Strengths:** Innovative, User-friendly.
+# Strengths:Innovative, User-friendly.
 
-**Weakness**: Cost of calculator increases as features added in the calculator increase.
+# Weakness: Cost of calculator increases as features added in the calculator increase.
 
 Opportunities: We know that we mostly use scientific calculators in our childhood. So tech based
 
@@ -100,22 +99,22 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 **When:** Need for calculation.
 
-**How:** Calculates the user input and gives the output.
+**How: Calculates the user input and gives the output.
 
-**Detail Requirements:**
+# Detail Requirements:
 
-**High Level Requirements:**
+# High Level Requirements:
 
 |**ID|**Description|**Status|
 |:-|:----------|:-----|
-|HL01|Multiple Arithmetic operation|  
+|HL01|Multiple Arithmetic operation| 
 |HL02|Multiple Logarithmic operation|  
 |HL03|Multiple Trigonometric operation|
 |HL04|Multiple function operation|
 
 
 
-**Low level Requirements:**
+# Low level Requirements:
 
 |**ID|**Description|**Status|
 |:---|:---------|:------|
