@@ -2,7 +2,9 @@
 
 # REQUIREMENTS
 
-#INTRODUCTION: The Scientific calculator project is the application based mini project,
+**INTRODUCTION :
+
+The Scientific calculator project is the application based mini project,
 
 which is used to perform arithmetic operations, trigonometric functions, logarithmic functions,
 
@@ -16,11 +18,9 @@ multiplatform approach (Linux and Windows).
 
 # RESEARCH
 
-# Modern scientific calculators generally have many more features than a standard four or
-
-# five-function calculator, and the feature set differs between manufacturers and models
-
-# however, the defining features of a scientific calculator include:
+ Modern scientific calculators generally have many more features than a standard four or
+ five-function calculator, and the feature set differs between manufacturers and models
+ however, the defining features of a scientific calculator include:
 
 scientific notation
 
@@ -59,7 +59,7 @@ conversion of units.
 
 
 
-# Cost Vs Timeline
+**Cost_vs_Timeline
 
 This is the plot of cost of the calculators in ($ ) and time in years
 
@@ -67,17 +67,17 @@ This is the plot of cost of the calculators in ($ ) and time in years
 
 0137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
-# Defining System:
+**Defining System:
 
 Design and testing mathematical operations of scientific calculator using unit
 
 testing algorithm.
 
-# SWOT analysis:
+**SWOT analysis:
 
-# Strengths:Innovative, User-friendly.
+Strengths:Innovative, User-friendly.
 
-# Weakness: Cost of calculator increases as features added in the calculator increase.
+Weakness: Cost of calculator increases as features added in the calculator increase.
 
 Opportunities: We know that we mostly use scientific calculators in our childhood. So tech based
 
@@ -88,22 +88,19 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 [https://swotindia.wordpress.com/2020/09/03/swot-analysis-of-casio-calculators/]
 
 
+# 4’W_and_1’H**
 
+What: Scientific calculator
 
+Where: School, Science, Mathematics, Technology
 
-**4’W and 1’H**
+When:Need for calculation.
 
-**What:** Scientific calculator
+How: Calculates the user input and gives the output.
 
-**Where:** School, Science, Mathematics, Technology
+# Detail_Requirements:
 
-**When:** Need for calculation.
-
-**How: Calculates the user input and gives the output.
-
-# Detail Requirements:
-
-# High Level Requirements:
+# High_Level_Requirements:
 
 |**ID|**Description|**Status|
 |:-|:----------|:-----|
@@ -114,7 +111,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 
 
-# Low level Requirements:
+# Low_level_Requirements:
 
 |**ID|**Description|**Status|
 |:---|:---------|:------|
